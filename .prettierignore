@@ -1,0 +1,15 @@
+# Ignore all html files:
+
+build
+coverage
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.*
+package.json
+yarn.lock
+tsconfig.json
+vite.config.ts
+
+# Ignore all html files:
+*.html
